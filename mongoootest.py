@@ -8,9 +8,6 @@ import streamlit as st
 
 st.title("Punjab Govt's Employment Chatbot")
 
-# Set your OpenAI API key
-openai.api_key = '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'
-
 # MongoDB connection setup
 mongo_client = MongoClient("mongodb://localhost:27017/")  # Update the MongoDB connection string
 db = mongo_client["sih2023"]  # Replace with your MongoDB database name
