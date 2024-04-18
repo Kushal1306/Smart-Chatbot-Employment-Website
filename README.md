@@ -1,5 +1,6 @@
 # Smart-Chatbot-Employment-Website
 The whole methodology is categorised into the below steps: i.e
+<br>
 •	Data collection: collecting different types of queries (data) from various sources and labelling them with the probable intents
 •	Annotating the collected queries with entities for entity recognition.
 •	Training the Bert model on labelled queries for intent classification.
