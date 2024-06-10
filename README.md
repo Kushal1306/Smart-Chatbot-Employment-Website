@@ -2,6 +2,10 @@
  An intelligent chatbot built on top of GPT-3.5 to fulfil users’ needs. It extracts the intent and entities of user queries and
  based on them, recommends jobs and events, and retrieves information from the knowledge base using the nearest match
  approach. The model (BERT) was finetuned to extract intent and spacy was used to extract entities of a query.
+
+ Example Snapshot
+ ![323459775-9dd33ccb-b42d-4bbc-863e-dc3ce85dc33b](https://github.com/Kushal1306/Smart-Chatbot-Employment-Website/assets/95643826/b57d30d9-3fa3-46ea-9b58-0f79b46bce93)
+
  
 The whole methodology is categorised into the below steps: i.e
 <br>
