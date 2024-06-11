@@ -23,6 +23,7 @@ Data was collected from various sources on the web, and textual expansion was do
 ![image](https://github.com/Kushal1306/Smart-Chatbot-Employment-Website/assets/95643826/50b9ad5d-9c26-4dd5-a11a-c5d95adf1809)
 
 Fig 1. Textual Expansion of Query
+<br>
 All queries were labelled with six different intents: job search, internship search, networking opportunities, skill development, career advice, and information retrieval. The picture in Figure 2 shows the distribution of queries across various intents.
 
 
@@ -30,6 +31,7 @@ All queries were labelled with six different intents: job search, internship sea
 
 Fig 2.  Bar Plot showing distribution of Queries over 6 Intents
 
+<br>
 The pre-trained BERT( Bidirectional Encoder Represenation Transformer) was fine-tuned on the above queries with the labelled intents for intent classification. Queries related to job search, internship search, and networking opportunities were annotated with probable entities as shown in figure 3.
 
  ![image](https://github.com/Kushal1306/Smart-Chatbot-Employment-Website/assets/95643826/7ed4cfbf-bb45-4842-86ed-effbfadfd5fa)
