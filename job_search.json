@@ -1,0 +1,2626 @@
+[
+    {
+        "text": "I'm looking for software job openings in Mumbai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Find me software employment opportunities in Delhi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Any software job vacancies in Bangalore?",
+        "intent": "job_search"
+    },
+    {
+        "text": "I need information about software jobs in Chennai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Can you help me find software job listings in Kolkata?",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking software job opportunities in Hyderabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software job openings in Pune.",
+        "intent": "job_search"
+    },
+    {
+        "text": "I'm searching for software employment in Ahmedabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Do you have details about software jobs in Surat?",
+        "intent": "job_search"
+    },
+    {
+        "text": "I need software job listings in Jaipur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Help me find software job opportunities in Lucknow.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Find me software job openings in Kanpur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Can you assist me in finding software jobs in Nagpur?",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software employment opportunities in Indore.",
+        "intent": "job_search"
+    },
+    {
+        "text": "I'm searching for software jobs in Thane.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Find me software job listings in Bhopal.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking software job opportunities in Visakhapatnam.",
+        "intent": "job_search"
+    },
+    {
+        "text": "I need information about software jobs in Pimpri-Chinchwad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Can you help me find software job openings in Patna?",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software employment in Vadodara.",
+        "intent": "job_search"
+    },
+    {
+        "text": "I'm looking for software jobs in Chandigarh.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Find me software job openings in Ranchi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Any software job vacancies in Raipur?",
+        "intent": "job_search"
+    },
+    {
+        "text": "I need information about software jobs in Shimla.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Can you help me find software job listings in Gandhinagar?",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking software job opportunities in Dehradun.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software job openings in Aizawl.",
+        "intent": "job_search"
+    },
+    {
+        "text": "I'm searching for software employment in Agartala.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Do you have details about software jobs in Imphal?",
+        "intent": "job_search"
+    },
+    {
+        "text": "I need software job listings in Kohima.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Help me find software job opportunities in Gangtok.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Find me software job openings in Itanagar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Can you assist me in finding software jobs in Panaji?",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software employment opportunities in Srinagar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "I'm searching for software jobs in Port Blair.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Find me software job listings in Chandigarh.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking software job opportunities in Puducherry.",
+        "intent": "job_search"
+    },
+    {
+        "text": "I need information about software jobs in Gangtok.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Can you help me find software job openings in Aizawl?",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software employment in Itanagar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Can you provide software jobs in Chandigarh?",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software employment opportunities in Ranchi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Could you suggest software job vacancies in Raipur?",
+        "intent": "job_search"
+    },
+    {
+        "text": "Please guide me with software job listings in Shimla.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking software job opportunities in Gandhinagar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "I need information about software jobs in Dehradun.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software job openings in Aizawl.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Can you suggest software employment in Agartala?",
+        "intent": "job_search"
+    },
+    {
+        "text": "Please guide me with software job details in Imphal.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking software job listings in Kohima.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software job opportunities in Gangtok.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Can you provide software job openings in Itanagar?",
+        "intent": "job_search"
+    },
+    {
+        "text": "Suggest software jobs in Panaji.",
+        "intent": "job_search"
+    },
+    {
+        "text": "I'm seeking software employment opportunities in Srinagar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Can you suggest software job listings in Port Blair?",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software job opportunities in Puducherry.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Please guide me with software job details in Gangtok.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking software job listings in Aizawl?",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software employment in Itanagar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Can you guide me with software job opportunities in Kohima?",
+        "intent": "job_search"
+    },
+    {
+        "text": "Please suggest software job openings in Panaji.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Suggest software employment opportunities in Srinagar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking software job listings in Port Blair.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software job opportunities in Puducherry.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Please guide me with software job details in Gangtok.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking software job listings in Aizawl?",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software employment in Itanagar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Can you guide me with software job opportunities in Kohima?",
+        "intent": "job_search"
+    },
+    {
+        "text": "Please suggest software job openings in Panaji.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Suggest software employment opportunities in Srinagar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking software job listings in Port Blair.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software job opportunities in Puducherry.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Please guide me with software job details in Gangtok.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking software job listings in Aizawl?",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software employment in Itanagar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Can you guide me with software job opportunities in Kohima?",
+        "intent": "job_search"
+    },
+    {
+        "text": "Please suggest software job openings in Panaji.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Suggest software employment opportunities in Srinagar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking software job listings in Port Blair.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software job opportunities in Puducherry.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Please guide me with software job details in Gangtok.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking software job listings in Aizawl?",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software employment in Itanagar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Can you guide me with software job opportunities in Kohima?",
+        "intent": "job_search"
+    },
+    {
+        "text": "Please suggest software job openings in Panaji.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Suggest software employment opportunities in Srinagar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking software job listings in Port Blair.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software job opportunities in Puducherry.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Please guide me with software job details in Gangtok.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Suggest me software jobs in Mumbai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "I am looking for software employment opportunities in Mumbai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Can you guide me with software job vacancies in Mumbai?",
+        "intent": "job_search"
+    },
+    {
+        "text": "Show me software job openings in Mumbai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Help me find software jobs in Delhi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking software job opportunities in Delhi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Can you assist me in finding software job listings in Delhi?",
+        "intent": "job_search"
+    },
+    {
+        "text": "Provide information about software jobs in Delhi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software job vacancies in Bangalore.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Find me software job opportunities in Bangalore.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Suggest software employment in Bangalore.",
+        "intent": "job_search"
+    },
+    {
+        "text": "I need details about software job openings in Bangalore.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking software jobs in Chennai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software job listings in Chennai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Provide information about software job vacancies in Chennai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Suggest software job opportunities in Chennai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Show me software engineer jobs in Mumbai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software engineer employment opportunities in Mumbai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Find software engineer job vacancies in Mumbai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Can you suggest software engineer job openings in Mumbai?",
+        "intent": "job_search"
+    },
+    {
+        "text": "I need information about software engineer jobs in Delhi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software engineer job opportunities in Delhi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Find me software engineer job listings in Delhi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking software engineer employment in Delhi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Any software engineer job vacancies in Bangalore?",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software engineer job openings in Bangalore.",
+        "intent": "job_search"
+    },
+    {
+        "text": "I'm searching for software engineer employment opportunities in Bangalore.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Find software engineer job listings in Bangalore.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Suggest me software engineer jobs in Mumbai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "I am looking for software engineer employment opportunities in Mumbai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Can you guide me with software engineer job vacancies in Mumbai?",
+        "intent": "job_search"
+    },
+    {
+        "text": "Show me software engineer job openings in Mumbai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Help me find software engineer jobs in Delhi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking software engineer job opportunities in Delhi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Can you assist me in finding software engineer job listings in Delhi?",
+        "intent": "job_search"
+    },
+    {
+        "text": "Provide information about software engineer job vacancies in Delhi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software engineer job opportunities in Bangalore.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Find me software engineer employment in Bangalore.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Suggest software engineer job vacancies in Bangalore.",
+        "intent": "job_search"
+    },
+    {
+        "text": "I need details about software engineer job openings in Bangalore.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking software engineer jobs in Chennai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software engineer job listings in Chennai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Provide information about software engineer job vacancies in Chennai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Suggest software engineer job opportunities in Chennai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Show me software engineer jobs in Kolkata.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software engineer employment opportunities in Kolkata.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Find software engineer job vacancies in Kolkata.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Can you suggest software engineer job openings in Kolkata?",
+        "intent": "job_search"
+    },
+    {
+        "text": "I need information about software engineer jobs in Hyderabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software engineer job opportunities in Hyderabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Find me software engineer job listings in Hyderabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking software engineer employment in Hyderabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Any software engineer job vacancies in Pune?",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software engineer job openings in Pune.",
+        "intent": "job_search"
+    },
+    {
+        "text": "I'm searching for software engineer employment opportunities in Pune.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Find software engineer job listings in Pune.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Can you help me find software engineer jobs in Ahmedabad?",
+        "intent": "job_search"
+    },
+    {
+        "text": "I'm seeking software engineer job opportunities in Ahmedabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software engineer job vacancies in Ahmedabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Suggest software engineer job openings in Ahmedabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "I need information about software engineer jobs in Surat.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking software engineer job opportunities in Surat.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Find me software engineer job listings in Surat.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Can you guide me with software engineer employment in Surat?",
+        "intent": "job_search"
+    },
+    {
+        "text": "Show me software engineer jobs in Chandigarh.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software engineer employment opportunities in Chandigarh.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Find software engineer job vacancies in Chandigarh.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Can you suggest software engineer job openings in Chandigarh?",
+        "intent": "job_search"
+    },
+    {
+        "text": "I need information about software engineer jobs in Jaipur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking software engineer job opportunities in Jaipur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Find me software engineer job listings in Jaipur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software engineer employment in Jaipur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Any software engineer job vacancies in Lucknow?",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software engineer job openings in Lucknow.",
+        "intent": "job_search"
+    },
+    {
+        "text": "I'm searching for software engineer employment opportunities in Lucknow.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Find software engineer job listings in Lucknow.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Can you help me find software engineer jobs in Bhopal?",
+        "intent": "job_search"
+    },
+    {
+        "text": "I'm seeking software engineer job opportunities in Bhopal.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software engineer job vacancies in Bhopal.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Suggest software engineer job openings in Bhopal.",
+        "intent": "job_search"
+    },
+    {
+        "text": "I need information about software engineer jobs in Indore.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking software engineer job opportunities in Indore.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Find me software engineer job listings in Indore.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Can you guide me with software engineer employment in Indore?",
+        "intent": "job_search"
+    },
+    {
+        "text": "Show me software engineer jobs in Kanpur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software engineer employment opportunities in Kanpur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Find software engineer job vacancies in Kanpur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Can you suggest software engineer job openings in Kanpur?",
+        "intent": "job_search"
+    },
+    {
+        "text": "Suggest me software engineer jobs in Coimbatore.",
+        "intent": "job_search"
+    },
+    {
+        "text": "I am looking for software engineer employment opportunities in Coimbatore.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Can you guide me with software engineer job vacancies in Coimbatore?",
+        "intent": "job_search"
+    },
+    {
+        "text": "Show me software engineer job openings in Coimbatore.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Help me find software engineer jobs in Guwahati.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking software engineer job opportunities in Guwahati.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Can you assist me in finding software engineer job listings in Guwahati?",
+        "intent": "job_search"
+    },
+    {
+        "text": "Provide information about software engineer job vacancies in Guwahati.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software engineer job opportunities in Visakhapatnam.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Find me software engineer employment in Visakhapatnam.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Suggest software engineer job vacancies in Visakhapatnam.",
+        "intent": "job_search"
+    },
+    {
+        "text": "I need details about software engineer job openings in Visakhapatnam.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking software engineer jobs in Bhubaneswar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software engineer job listings in Bhubaneswar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Provide information about software engineer job vacancies in Bhubaneswar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Suggest software engineer job opportunities in Bhubaneswar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Show me software developer jobs in Mumbai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software developer employment opportunities in Mumbai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Find software developer job vacancies in Mumbai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Can you suggest software developer job openings in Mumbai?",
+        "intent": "job_search"
+    },
+    {
+        "text": "I need information about software developer jobs in Delhi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking software developer job opportunities in Delhi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Find me software developer job listings in Delhi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software developer employment in Delhi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Any software developer job vacancies in Bangalore?",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software developer job openings in Bangalore.",
+        "intent": "job_search"
+    },
+    {
+        "text": "I'm searching for software developer employment opportunities in Bangalore.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Find software developer job listings in Bangalore.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Suggest me software developer jobs in Hyderabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "I am looking for software developer employment opportunities in Hyderabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Can you guide me with software developer job vacancies in Hyderabad?",
+        "intent": "job_search"
+    },
+    {
+        "text": "Show me software developer job openings in Hyderabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Help me find software developer jobs in Chennai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking software developer job opportunities in Chennai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Can you assist me in finding software developer job listings in Chennai?",
+        "intent": "job_search"
+    },
+    {
+        "text": "Provide information about software developer job vacancies in Chennai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software developer job opportunities in Kolkata.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Find me software developer employment in Kolkata.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Suggest software developer job vacancies in Kolkata.",
+        "intent": "job_search"
+    },
+    {
+        "text": "I need details about software developer job openings in Kolkata.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking software developer jobs in Pune.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software developer job listings in Pune.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Provide information about software developer job vacancies in Pune.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Suggest software developer job opportunities in Pune.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Show me software developer jobs in Ahmedabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software developer employment opportunities in Ahmedabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Find software developer job vacancies in Ahmedabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Can you suggest software developer job openings in Ahmedabad?",
+        "intent": "job_search"
+    },
+    {
+        "text": "I need information about software developer jobs in Surat.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking software developer job opportunities in Surat.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Find me software developer job listings in Surat.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Can you guide me with software developer employment in Surat?",
+        "intent": "job_search"
+    },
+    {
+        "text": "Show me software developer jobs in Jaipur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software developer employment opportunities in Jaipur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Find software developer job vacancies in Jaipur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Can you suggest software developer job openings in Jaipur?",
+        "intent": "job_search"
+    },
+    {
+        "text": "I need information about software developer jobs in Indore.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking software developer job opportunities in Indore.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Find me software developer job listings in Indore.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Can you guide me with software developer employment in Indore?",
+        "intent": "job_search"
+    },
+    {
+        "text": "Show me software developer jobs in Chandigarh.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software developer employment opportunities in Chandigarh.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Find software developer job vacancies in Chandigarh.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Can you suggest software developer job openings in Chandigarh?",
+        "intent": "job_search"
+    },
+    {
+        "text": "I need information about software developer jobs in Kanpur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking software developer job opportunities in Kanpur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Find me software developer job listings in Kanpur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Can you guide me with software developer employment in Kanpur?",
+        "intent": "job_search"
+    },
+    {
+        "text": "Show me software developer jobs in Lucknow.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software developer employment opportunities in Lucknow.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Find software developer job vacancies in Lucknow.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Can you suggest software developer job openings in Lucknow?",
+        "intent": "job_search"
+    },
+    {
+        "text": "I need information about software developer jobs in Patna.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking software developer job opportunities in Patna.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Find me software developer job listings in Patna.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Can you guide me with software developer employment in Patna?",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software engineers proficient in Python, Java, C++, and Agile methodologies. Strong problem-solving skills and version control experience (e.g., Git) are essential.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking data scientists adept in statistical analysis, machine learning using Python/R, SQL, and data visualization (e.g., Tableau, Matplotlib).",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring QA engineers skilled in Selenium for automated testing. Must possess strong knowledge of testing methodologies, bug tracking, and test case design.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for DevOps engineers experienced in CI/CD pipelines (Jenkins/GitLab CI), infrastructure as code (Terraform/Ansible), containerization (Docker/Kubernetes), and cloud platforms.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking UI/UX designers with expertise in user research, wireframing (Sketch/Adobe XD), UI design using HTML/CSS/JS, and user-centric design principles.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software developers skilled in Python and Java in Mumbai. Experience in C++ is a plus.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking software engineers proficient in Agile methodologies, Python, and C++ in Bengaluru.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring software developers with expertise in Java, problem-solving, and Git in Hyderabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for data scientists skilled in statistical analysis, Python/R, SQL in Pune.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking data scientists proficient in machine learning, data visualization (Tableau/Matplotlib), and Python in Chennai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for QA engineers skilled in Selenium, testing methodologies, and bug tracking in Ahmedabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking QA engineers with expertise in test case design, bug tracking, and Selenium in Kolkata.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring QA engineers proficient in automated testing using Selenium in Jaipur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software developers skilled in Python and Java in Gurugram. Experience in Agile methodologies is preferred.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking software engineers proficient in C++, problem-solving, and Git in Noida.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring software developers with expertise in Java, Agile methodologies, and version control in Kochi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for data scientists skilled in statistical analysis, Python/R, and SQL in Coimbatore.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking data scientists proficient in machine learning, Python, and data visualization in Visakhapatnam.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring data scientists experienced in statistical analysis, Python/R, and data visualization tools in Surat.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for QA engineers skilled in Selenium, testing methodologies, and bug tracking in Indore.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking QA engineers with expertise in test case design, bug tracking, and automated testing using Selenium in Bhubaneswar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring QA engineers proficient in automated testing using Selenium and bug tracking in Guwahati.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software developers skilled in Python, Java, and Agile methodologies in Chandigarh.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking software engineers proficient in C++, problem-solving, and version control in Ahmedabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring software developers with expertise in Java, Agile methodologies, and Git in Lucknow.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for data scientists skilled in statistical analysis, Python/R, and SQL in Kanpur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking data scientists proficient in machine learning, Python, and data visualization tools in Bhopal.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring data scientists experienced in statistical analysis, Python/R, and data visualization in Patna.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for QA engineers skilled in Selenium, testing methodologies, and bug tracking in Ranchi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking QA engineers with expertise in test case design, bug tracking, and automated testing using Selenium in Thiruvananthapuram.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring QA engineers proficient in automated testing using Selenium and bug tracking in Amritsar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring QA engineers proficient in automated testing using Selenium and bug tracking in Amritsar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for plumbing technicians experienced in pipe fitting and repair work in Mumbai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking plumbers skilled in residential plumbing, fixture installations, and maintenance in Delhi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring plumbing experts with experience in commercial plumbing systems and troubleshooting in Bengaluru.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for licensed plumbers proficient in leak detection, drain cleaning, and sewage line repairs in Hyderabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking plumbing technicians experienced in water heater installations and plumbing fixture repairs in Chennai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for plumbing experts skilled in residential plumbing, water system maintenance, and fixture repairs in Mumbai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring licensed plumbers experienced in commercial plumbing, pipeline installations, and drainage system repairs in Mumbai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking plumbing technicians proficient in leak detection, sewage line repairs, and water pressure regulation in Mumbai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for plumbers with expertise in both residential and commercial plumbing services, pipe fitting, and fixture installations in Mumbai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking plumbing experts skilled in both residential and commercial plumbing, drain cleaning, and water system inspections in Delhi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring licensed plumbers experienced in water leak detection, pipe repairs, and fixture installations in Delhi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for plumbing technicians proficient in sewer line repairs, drain cleaning, and plumbing diagnostics in Delhi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking plumbers experienced in water heater installations, leak repairs, and plumbing maintenance in Delhi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring plumbing experts skilled in both residential and commercial plumbing services, pipeline installations, and fixture repairs in Bengaluru.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for licensed plumbers proficient in water system maintenance, leak detection, and sewage line repairs in Bengaluru.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking plumbing technicians experienced in pipe fitting, water pressure regulation, and fixture replacements in Bengaluru.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring plumbers with expertise in drain cleaning, plumbing fixture installations, and water system inspections in Bengaluru.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for plumbing technicians experienced in pipeline installations, fixture repairs, and drain cleaning in Hyderabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring licensed plumbers skilled in water leak detection, sewage line repairs, and plumbing system inspections in Hyderabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking plumbing experts proficient in residential plumbing, water system maintenance, and fixture installations in Hyderabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for plumbers experienced in both residential and commercial plumbing services, pipe fitting, and water heater installations in Hyderabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking plumbing technicians skilled in water system maintenance, drain cleaning, and fixture replacements in Chennai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring licensed plumbers experienced in sewage line repairs, leak detection, and plumbing system installations in Chennai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for plumbing experts proficient in both residential and commercial plumbing services, water pressure regulation, and pipe repairs in Chennai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking plumbers with expertise in water heater installations, plumbing fixture repairs, and pipeline maintenance in Chennai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring plumbing experts skilled in residential plumbing, drainage system repairs, and fixture installations in Kolkata.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for licensed plumbers proficient in commercial plumbing, water leak detection, and sewage line repairs in Kolkata.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking plumbing technicians experienced in water system inspections, pipe fitting, and drain cleaning in Kolkata.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring plumbers with expertise in both residential and commercial plumbing services, water pressure regulation, and fixture replacements in Kolkata.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for plumbing technicians experienced in residential plumbing, fixture installations, and drain cleaning in Patna.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking plumbers skilled in water leak detection, pipe repairs, and sewage line maintenance in Patna.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring licensed plumbers proficient in both residential and commercial plumbing services, water system inspections, and fixture repairs in Patna.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for plumbing experts experienced in water pressure regulation, drain cleaning, and pipeline maintenance in Patna.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking plumbing technicians skilled in residential plumbing, water heater installations, and fixture replacements in Kanpur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring licensed plumbers experienced in commercial plumbing, leak detection, and sewage line repairs in Kanpur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for plumbing experts proficient in both residential and commercial plumbing services, pipe fitting, and water system maintenance in Kanpur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking plumbers with expertise in drain cleaning, water pressure regulation, and plumbing fixture installations in Kanpur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring plumbing experts skilled in residential plumbing, fixture repairs, and water system inspections in Coimbatore.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for licensed plumbers proficient in commercial plumbing, drainage system repairs, and water leak detection in Coimbatore.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking plumbing technicians experienced in both residential and commercial plumbing services, pipeline installations, and fixture replacements in Coimbatore.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring plumbers with expertise in water pressure regulation, drain cleaning, and plumbing system maintenance in Coimbatore.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for electricians experienced in residential electrical installations, wiring, and fixture repairs in Mumbai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking skilled electricians proficient in commercial electrical systems, troubleshooting, and electrical maintenance in Mumbai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring licensed electricians with expertise in both residential and commercial electrical services, electrical panel installations, and repairs in Mumbai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for electrician experts experienced in electrical wiring, circuit repairs, and electrical system inspections in Mumbai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking electricians skilled in residential and industrial electrical services, lighting installations, and electrical repairs in Delhi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring licensed electricians proficient in wiring, electrical panel installations, and electrical system maintenance in Delhi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for electricians experienced in electrical troubleshooting, fixture replacements, and electrical system upgrades in Delhi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking skilled electricians with expertise in both residential and commercial electrical services, circuit repairs, and electrical installations in Delhi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring electricians skilled in residential electrical wiring, fixture installations, and electrical system inspections in Bengaluru.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking licensed electricians proficient in commercial electrical systems, electrical panel upgrades, and electrical repairs in Bengaluru.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for electricians experienced in electrical troubleshooting, wiring upgrades, and electrical maintenance in Bengaluru.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking skilled electricians with expertise in both residential and commercial electrical services, circuit repairs, and lighting installations in Bengaluru.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for electricians experienced in residential and commercial electrical services, wiring, and fixture repairs in Hyderabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking skilled electricians proficient in electrical panel installations, lighting upgrades, and electrical system inspections in Hyderabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring licensed electricians with expertise in electrical troubleshooting, circuit repairs, and electrical maintenance in Hyderabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for electricians experienced in both residential and commercial electrical services, fixture replacements, and electrical system upgrades in Hyderabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking electricians skilled in residential electrical installations, wiring, and electrical system inspections in Chennai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring licensed electricians proficient in commercial electrical systems, electrical panel upgrades, and electrical repairs in Chennai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for electricians experienced in electrical troubleshooting, wiring upgrades, and electrical maintenance in Chennai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking skilled electricians with expertise in both residential and commercial electrical services, lighting installations, and circuit repairs in Chennai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring electricians skilled in residential and commercial electrical services, fixture repairs, and electrical system inspections in Kolkata.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking licensed electricians proficient in commercial electrical systems, wiring upgrades, and electrical maintenance in Kolkata.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for electricians experienced in electrical troubleshooting, lighting installations, and electrical system upgrades in Kolkata.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking skilled electricians with expertise in both residential and commercial electrical services, circuit repairs, and electrical panel installations in Kolkata.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for electricians experienced in residential electrical wiring, fixture installations, and electrical system maintenance in Pune.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking skilled electricians proficient in commercial electrical systems, electrical panel repairs, and lighting installations in Pune.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring licensed electricians with expertise in both residential and commercial electrical services, circuit replacements, and electrical inspections in Pune.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking electricians experienced in electrical troubleshooting, wiring upgrades, and electrical system inspections in Pune.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring electricians skilled in residential and commercial electrical services, fixture repairs, and electrical system upgrades in Ahmedabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking licensed electricians proficient in electrical panel installations, wiring replacements, and electrical maintenance in Ahmedabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for electricians experienced in electrical troubleshooting, lighting installations, and electrical system inspections in Ahmedabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking skilled electricians with expertise in both residential and commercial electrical services, circuit repairs, and electrical panel upgrades in Ahmedabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for electricians experienced in residential electrical installations, wiring, and fixture replacements in Jaipur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking skilled electricians proficient in commercial electrical systems, electrical panel upgrades, and electrical maintenance in Jaipur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring licensed electricians with expertise in both residential and commercial electrical services, circuit repairs, and electrical system inspections in Jaipur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking electricians experienced in electrical troubleshooting, lighting installations, and electrical system upgrades in Jaipur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for sales representatives skilled in client relationship management and lead generation in Mumbai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking sales executives proficient in cold calling, negotiation, and sales presentations in Delhi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring sales professionals experienced in B2B sales, account management, and market research in Bengaluru.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for sales associates skilled in consultative selling, CRM software usage, and pipeline management in Hyderabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking sales managers proficient in team leadership, sales forecasting, and strategic planning in Chennai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring sales representatives experienced in inbound and outbound sales, customer retention, and upselling in Kolkata.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for sales executives skilled in social media selling, relationship building, and sales analytics in Pune.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking sales professionals proficient in solution selling, product demonstration, and closing techniques in Ahmedabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring sales associates experienced in retail sales, customer service, and product knowledge in Jaipur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for sales managers skilled in key account management, market penetration, and sales strategy in Lucknow.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking sales representatives proficient in CRM utilization, lead qualification, and sales pipeline management in Chandigarh.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring sales executives experienced in consultative sales, relationship management, and sales forecasting in Surat.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for sales professionals skilled in solution-based selling, customer acquisition, and networking in Visakhapatnam.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking sales associates proficient in retail merchandising, customer engagement, and sales reporting in Indore.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring sales managers experienced in team building, strategic partnerships, and revenue generation in Thiruvananthapuram.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for sales representatives skilled in territory management, sales negotiation, and client acquisition in Bhopal.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking sales executives proficient in market analysis, customer needs assessment, and competitive analysis in Nagpur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring sales professionals experienced in direct sales, prospecting, and objection handling in Kanpur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for sales associates skilled in relationship selling, CRM utilization, and product demonstrations in Ludhiana.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking sales managers proficient in sales planning, team leadership, and performance management in Agra.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring sales representatives experienced in customer relationship building, lead qualification, and sales pipeline management in Varanasi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for sales executives skilled in consultative selling, solution-oriented approach, and CRM software usage in Guwahati.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking sales professionals proficient in outbound sales calls, prospecting, and sales target achievement in Patna.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring sales associates experienced in retail sales, cross-selling, and customer needs analysis in Raipur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for sales managers skilled in strategic planning, team management, and market penetration in Ranchi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking sales representatives proficient in digital sales strategies, online client engagement, and social media marketing in Jodhpur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring sales executives experienced in inside sales, lead nurturing, and account retention in Allahabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for sales professionals skilled in consultative sales techniques, customer relationship management, and sales forecasting in Coimbatore.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking sales associates proficient in retail merchandising, customer engagement, and product knowledge in Kochi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring sales managers experienced in key account handling, market analysis, and strategic partnerships in Visakhapatnam.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for sales representatives skilled in territory management, cold calling, and client acquisition in Amritsar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking sales executives proficient in market analysis, customer needs assessment, and competitive analysis in Bhubaneswar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring sales professionals experienced in direct sales, prospecting, and objection handling in Jamshedpur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for sales associates skilled in relationship selling, CRM utilization, and product demonstrations in Tiruchirappalli.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking sales managers proficient in sales planning, team leadership, and performance management in Madurai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring sales representatives experienced in customer relationship management, lead qualification, and sales pipeline management in Udaipur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for sales executives skilled in consultative selling, solution-oriented approach, and CRM software usage in Dehradun.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking sales professionals proficient in outbound sales calls, prospecting, and sales target achievement in Siliguri.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring sales associates experienced in retail sales, cross-selling, and customer needs analysis in Panaji.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for sales managers skilled in strategic planning, team management, and market penetration in Port Blair.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking sales representatives proficient in customer acquisition, relationship management, and sales pipeline development in Shillong.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring sales executives experienced in consultative sales, solution-oriented approach, and CRM software usage in Itanagar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for sales professionals skilled in outbound sales calls, lead generation, and sales target achievement in Gangtok.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking sales associates proficient in retail sales, cross-selling, and customer needs analysis in Agartala.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring sales managers experienced in strategic planning, team management, and market penetration in Imphal.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for sales representatives skilled in digital sales strategies, online client engagement, and social media marketing in Kohima.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking sales executives proficient in inside sales, lead nurturing, and account retention in Aizawl.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring sales professionals experienced in consultative sales techniques, customer relationship management, and sales forecasting in Bhopal.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for sales associates skilled in retail merchandising, customer engagement, and product knowledge in Indore.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking sales managers proficient in sales planning, team leadership, and performance management in Jabalpur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring sales representatives experienced in territory management, cold calling, and client acquisition in Gwalior.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for sales executives skilled in market analysis, customer needs assessment, and competitive analysis in Ujjain.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking sales professionals proficient in direct sales, prospecting, and objection handling in Rewa.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring sales associates experienced in relationship selling, CRM utilization, and product demonstrations in Satna.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for sales managers skilled in sales planning, team leadership, and performance management in Ratlam.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking sales representatives proficient in customer relationship management, lead qualification, and sales pipeline management in Dewas.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring sales executives experienced in consultative selling, solution-oriented approach, and CRM software usage in Chhindwara.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for sales professionals skilled in outbound sales calls, prospecting, and sales target achievement in Shivpuri.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking sales associates proficient in retail sales, cross-selling, and customer needs analysis in Vidisha.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring sales managers experienced in strategic planning, team management, and market penetration in Sehore.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for marketing executives skilled in digital marketing, social media management, and content creation in Mumbai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking marketing specialists proficient in market research, campaign management, and data analysis in Delhi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring marketing managers experienced in brand management, strategic planning, and advertising in Bengaluru.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for marketing associates skilled in SEO optimization, lead generation, and email marketing in Hyderabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking marketing coordinators proficient in event management, PR activities, and market segmentation in Chennai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring marketing analysts experienced in data-driven marketing, ROI analysis, and market trend forecasting in Kolkata.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for marketing strategists skilled in product positioning, competitive analysis, and market penetration in Pune.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking marketing consultants proficient in market expansion strategies, customer profiling, and marketing automation in Ahmedabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring marketing executives experienced in influencer marketing, campaign optimization, and customer engagement in Jaipur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for marketing specialists skilled in omnichannel marketing, content strategy, and CRM utilization in Lucknow.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking marketing managers proficient in product launch strategies, market segmentation, and advertising campaigns in Chandigarh.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring marketing analysts experienced in market research, customer behavior analysis, and campaign performance tracking in Surat.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for marketing coordinators skilled in event planning, PR activities, and digital campaign execution in Visakhapatnam.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking marketing strategists proficient in market positioning strategies, competitive analysis, and market research in Indore.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring marketing consultants experienced in market expansion strategies, customer profiling, and marketing automation in Nagpur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for marketing executives skilled in influencer marketing, campaign optimization, and customer engagement in Kanpur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking marketing specialists proficient in omnichannel marketing, content strategy, and CRM utilization in Ludhiana.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring marketing managers experienced in product launch strategies, market segmentation, and advertising campaigns in Agra.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for marketing analysts skilled in market research, customer behavior analysis, and campaign performance tracking in Nashik.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking marketing coordinators proficient in event planning, PR activities, and digital campaign execution in Guwahati.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring marketing specialists experienced in content marketing, SEO optimization, and social media advertising in Jodhpur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for marketing managers skilled in market research analysis, campaign management, and strategic planning in Patna.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking marketing analysts proficient in data-driven marketing strategies, ROI analysis, and market trend forecasting in Raipur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring marketing coordinators experienced in event management, PR activities, and market segmentation in Ranchi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for marketing strategists skilled in product positioning, competitive analysis, and market penetration in Shimla.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking marketing consultants proficient in market expansion strategies, customer profiling, and marketing automation in Agartala.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring marketing executives experienced in influencer marketing, campaign optimization, and customer engagement in Bhopal.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for marketing specialists skilled in omnichannel marketing, content strategy, and CRM utilization in Bhubaneswar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking marketing managers proficient in product launch strategies, market segmentation, and advertising campaigns in Chandigarh.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring marketing analysts experienced in market research, customer behavior analysis, and campaign performance tracking in Dehradun.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for marketing coordinators skilled in event planning, PR activities, and digital campaign execution in Gangtok.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking marketing strategists proficient in market positioning strategies, competitive analysis, and market research in Imphal.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring marketing consultants experienced in market expansion strategies, customer profiling, and marketing automation in Itanagar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for marketing executives skilled in influencer marketing, campaign optimization, and customer engagement in Kohima.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking marketing specialists proficient in omnichannel marketing, content strategy, and CRM utilization in Panaji.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring marketing managers experienced in product launch strategies, market segmentation, and advertising campaigns in Raipur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for marketing analysts skilled in market research, customer behavior analysis, and campaign performance tracking in Shillong.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking marketing coordinators proficient in event planning, PR activities, and digital campaign execution in Silvassa.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring marketing strategists experienced in market positioning strategies, competitive analysis, and market research in Srinagar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for marketing consultants skilled in market expansion strategies, customer profiling, and marketing automation in Thiruvananthapuram.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking marketing executives proficient in influencer marketing, campaign optimization, and customer engagement in Visakhapatnam.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring marketing specialists experienced in omnichannel marketing, content strategy, and CRM utilization in Yamunanagar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for marketing managers skilled in product launch strategies, market segmentation, and advertising campaigns in Alappuzha.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking marketing analysts proficient in market research, customer behavior analysis, and campaign performance tracking in Ambala.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring marketing coordinators experienced in event planning, PR activities, and digital campaign execution in Amravati.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for marketing strategists skilled in market positioning strategies, competitive analysis, and market research in Aurangabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking marketing consultants proficient in market expansion strategies, customer profiling, and marketing automation in Bhagalpur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring marketing executives experienced in influencer marketing, campaign optimization, and customer engagement in Bilaspur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for marketing specialists skilled in omnichannel marketing, content strategy, and CRM utilization in Cuttack.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking marketing managers proficient in product launch strategies, market segmentation, and advertising campaigns in Davanagere.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring marketing analysts experienced in market research, customer behavior analysis, and campaign performance tracking in Dibrugarh.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for marketing coordinators skilled in event planning, PR activities, and digital campaign execution in Dimapur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking marketing strategists proficient in market positioning strategies, competitive analysis, and market research in Durgapur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring marketing consultants experienced in market expansion strategies, customer profiling, and marketing automation in Erode.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for marketing executives skilled in influencer marketing, campaign optimization, and customer engagement in Gaya.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking marketing specialists proficient in omnichannel marketing, content strategy, and CRM utilization in Gulbarga.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring marketing managers experienced in product launch strategies, market segmentation, and advertising campaigns in Haridwar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for marketing analysts skilled in market research, customer behavior analysis, and campaign performance tracking in Hisar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking marketing coordinators proficient in event planning, PR activities, and digital campaign execution in Hosur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring marketing strategists experienced in market positioning strategies, competitive analysis, and market research in Jalpaiguri.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for marketing consultants skilled in market expansion strategies, customer profiling, and marketing automation in Kakinada.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking marketing executives proficient in influencer marketing, campaign optimization, and customer engagement in Kanchipuram.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring marketing specialists experienced in omnichannel marketing, content strategy, and CRM utilization in Karimnagar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for marketing managers skilled in product launch strategies, market segmentation, and advertising campaigns in Karnal.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking marketing analysts proficient in market research, customer behavior analysis, and campaign performance tracking in Kharagpur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring marketing coordinators experienced in event planning, PR activities, and digital campaign execution in Kollam.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for doctors specialized in general medicine and patient care in Mumbai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking pediatricians proficient in child health care and vaccination schedules in Delhi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring surgeons experienced in surgical procedures and emergency care in Bengaluru.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for anesthesiologists skilled in pain management and critical care in Hyderabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking dermatologists proficient in skin treatment and cosmetic procedures in Chennai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring psychiatrists experienced in mental health care and counseling in Kolkata.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for gynecologists skilled in women's health care and obstetrics in Pune.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking cardiologists proficient in heart-related ailments and cardiology procedures in Ahmedabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring orthopedic surgeons experienced in bone-related surgeries and rehabilitation in Jaipur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for ophthalmologists skilled in eye care and vision correction in Lucknow.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking neurologists proficient in neurological disorders and brain-related treatments in Chandigarh.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring urologists experienced in urinary tract-related ailments and surgeries in Surat.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for ENT specialists skilled in ear, nose, and throat treatments in Visakhapatnam.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking oncologists proficient in cancer treatment and oncology procedures in Indore.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring pulmonologists experienced in respiratory diseases and pulmonary care in Nagpur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for gastroenterologists skilled in digestive system-related ailments and procedures in Kanpur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking nephrologists proficient in kidney-related diseases and nephrology treatments in Ludhiana.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring endocrinologists experienced in hormonal disorders and endocrinology procedures in Agra.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for radiologists skilled in imaging and diagnostic procedures in Nashik.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking pathologists proficient in laboratory diagnostics and pathology studies in Guwahati.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for experienced surgeons specializing in surgical procedures and emergency care in Mumbai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking skilled surgeons proficient in various surgical techniques and patient care in Delhi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring surgeons experienced in complex surgeries and critical care in Bengaluru.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for dedicated surgeons specializing in minimally invasive procedures and post-operative care in Hyderabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking seasoned surgeons proficient in advanced surgical methods and patient recovery in Chennai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring experienced surgeons specialized in trauma surgeries and emergency medical care in Kolkata.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for skilled surgeons proficient in specialized surgeries and surgical interventions in Pune.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking expert surgeons experienced in organ transplants and surgical innovations in Ahmedabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring proficient surgeons specialized in robotic-assisted surgeries and precision medical procedures in Jaipur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for skilled surgeons proficient in laparoscopic surgeries and advanced medical techniques in Lucknow.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking seasoned surgeons specialized in vascular surgeries and interventional procedures in Chandigarh.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring experienced surgeons proficient in orthopedic surgeries and musculoskeletal care in Surat.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for dedicated surgeons experienced in plastic surgeries and reconstructive procedures in Visakhapatnam.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking expert surgeons proficient in neurosurgical procedures and neurological care in Indore.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring skilled surgeons specialized in thoracic surgeries and advanced medical interventions in Nagpur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for proficient surgeons experienced in bariatric surgeries and weight management procedures in Kanpur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking seasoned surgeons specialized in oncological surgeries and cancer care in Ludhiana.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring experienced surgeons proficient in pediatric surgeries and child healthcare in Agra.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for dedicated surgeons experienced in cardiac surgeries and heart care in Nashik.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking skilled surgeons proficient in gastrointestinal surgeries and digestive health care in Guwahati.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for skilled surgeons experienced in orthopedic surgeries and musculoskeletal care in Patna.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking seasoned surgeons specialized in plastic surgeries and reconstructive procedures in Raipur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring experienced surgeons proficient in neurosurgical procedures and neurological care in Ranchi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for dedicated surgeons experienced in cardiovascular surgeries and heart care in Shimla.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking expert surgeons proficient in bariatric surgeries and weight management procedures in Agartala.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring skilled surgeons specialized in oncological surgeries and cancer care in Bhopal.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for proficient surgeons experienced in pediatric surgeries and child healthcare in Bhubaneswar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking seasoned surgeons specialized in cardiac surgeries and heart-related procedures in Chandigarh.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring experienced surgeons proficient in gastrointestinal surgeries and digestive health care in Dehradun.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for dedicated surgeons experienced in urological surgeries and urinary tract care in Gangtok.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking expert surgeons proficient in vascular surgeries and circulatory system care in Imphal.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring skilled surgeons specialized in thoracic surgeries and respiratory system care in Itanagar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for proficient surgeons experienced in endoscopic surgeries and advanced medical techniques in Kohima.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking seasoned surgeons specialized in maxillofacial surgeries and facial reconstruction in Panaji.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring experienced surgeons proficient in hepatobiliary surgeries and liver care in Raipur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for dedicated surgeons experienced in laparoscopic surgeries and minimally invasive procedures in Silvassa.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking expert surgeons proficient in colorectal surgeries and gastrointestinal tract care in Srinagar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring skilled surgeons specialized in otolaryngological surgeries and ear-nose-throat care in Thiruvananthapuram.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for proficient surgeons experienced in obstetric surgeries and maternal healthcare in Udaipur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking seasoned surgeons specialized in orthognathic surgeries and jaw reconstruction in Varanasi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring experienced surgeons proficient in podiatric surgeries and foot care in Vijayawada.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for dedicated surgeons experienced in plastic reconstructive surgeries in Aizawl.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking expert surgeons proficient in robotic surgeries and advanced medical technologies in Gandhinagar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring skilled surgeons specialized in burn care and reconstructive surgeries in Gangtok.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for proficient surgeons experienced in vascular trauma surgeries in Imphal.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking seasoned surgeons specialized in plastic and reconstructive surgeries in Itanagar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring experienced surgeons proficient in craniofacial surgeries and facial reconstruction in Jammu.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for dedicated surgeons experienced in microvascular surgeries in Kohima.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking expert surgeons proficient in thoracic outlet syndrome surgeries in Panaji.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring skilled surgeons specialized in maxillofacial and craniofacial surgeries in Patna.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for experienced teachers proficient in Mathematics and Physics for a school in Mumbai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking skilled educators specialized in English Literature and Language for a teaching position in Delhi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring teachers experienced in Biology and Chemistry for a secondary school in Bengaluru.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for dedicated instructors proficient in History and Geography for a coaching institute in Hyderabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking expert faculty members specialized in Computer Science and Programming for a college in Chennai.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring experienced tutors proficient in Economics and Business Studies for a tutoring center in Kolkata.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for skilled mentors specialized in Environmental Science and Social Studies for a school in Pune.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking qualified educators proficient in Psychology and Sociology for a teaching position in Ahmedabad.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring teachers experienced in Music and Arts for an arts academy in Jaipur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for dedicated instructors proficient in Physical Education and Sports Coaching for a school in Lucknow.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking expert faculty members specialized in Foreign Languages and Linguistics for a college in Chandigarh.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring experienced tutors proficient in Drama and Performing Arts for a cultural institution in Surat.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for skilled mentors specialized in Special Education and Inclusive Teaching for a school in Visakhapatnam.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking qualified educators proficient in Early Childhood Education and Development for a preschool in Indore.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring teachers experienced in Home Science and Life Skills Education for a school in Nagpur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for dedicated instructors proficient in Agricultural Science and Farming Techniques for a vocational institute in Kanpur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking expert faculty members specialized in Robotics and STEM Education for a technology-focused school in Ludhiana.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring experienced tutors proficient in Health Education and Nutrition for an educational institution in Agra.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for skilled mentors specialized in Creative Writing and Journalism for a writing academy in Nashik.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking qualified educators proficient in Drama Therapy and Counselling for a therapeutic center in Guwahati.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for experienced teachers proficient in Economics and Commerce for a school in Patna.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking skilled educators specialized in Political Science and Civics for a teaching position in Raipur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring teachers experienced in Foreign Languages and Linguistics for a secondary school in Ranchi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for dedicated instructors proficient in Media Studies and Communication for a coaching institute in Shimla.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking expert faculty members specialized in Environmental Science and Geography for a college in Agartala.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring experienced tutors proficient in Visual Arts and Design for a tutoring center in Bhopal.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for skilled mentors specialized in Physical Education and Sports Coaching for a school in Bhubaneswar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking qualified educators proficient in Psychology and Sociology for a teaching position in Chandigarh.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring teachers experienced in Music and Performing Arts for an arts academy in Dehradun.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for dedicated instructors proficient in Business Studies and Entrepreneurship for a school in Gangtok.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking expert faculty members specialized in Computer Science and Technology for a college in Imphal.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring experienced tutors proficient in Drama and Film Studies for a cultural institution in Itanagar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for skilled mentors specialized in Special Education and Inclusive Teaching for a school in Kohima.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking qualified educators proficient in Early Childhood Development for a preschool in Panaji.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring teachers experienced in Home Science and Life Skills Education for a school in Raipur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for dedicated instructors proficient in Agricultural Science and Farming Techniques for a vocational institute in Silvassa.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking expert faculty members specialized in Robotics and STEM Education for a technology-focused school in Srinagar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring experienced tutors proficient in Health Education and Nutrition for an educational institution in Thiruvananthapuram.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for skilled mentors specialized in Creative Writing and Journalism for a writing academy in Udaipur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking qualified educators proficient in Drama Therapy and Counseling for a therapeutic center in Varanasi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring teachers experienced in Economics and Commerce for a school in Vijayawada.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for dedicated instructors proficient in Political Science and Civics for a coaching institute in Aizawl.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking expert faculty members specialized in Foreign Languages and Linguistics for a college in Gandhinagar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring experienced tutors proficient in Media Studies and Communication for a tutoring center in Gaya.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for skilled mentors specialized in Environmental Science and Geography for a school in Guwahati.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking qualified educators proficient in Visual Arts and Design for a teaching position in Jammu.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring teachers experienced in Psychology and Sociology for an educational institution in Kohima.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for dedicated instructors proficient in Music and Performing Arts for an arts academy in Patna.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking expert faculty members specialized in Business Studies and Entrepreneurship for a college in Raipur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring experienced tutors proficient in Computer Science and Technology for a tutoring center in Ranchi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for skilled mentors specialized in Drama and Film Studies for an educational institute in Shimla.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking qualified educators proficient in Special Education and Inclusive Teaching for a school in Agartala.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring teachers experienced in Early Childhood Development for a preschool in Bhopal.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for dedicated instructors proficient in Home Science and Life Skills Education for a school in Bhubaneswar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking expert faculty members specialized in Agricultural Science and Farming Techniques for a college in Chandigarh.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring experienced tutors proficient in Robotics and STEM Education for an educational institute in Dehradun.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for skilled mentors specialized in Health Education and Nutrition for a school in Gangtok.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking qualified educators proficient in Creative Writing and Journalism for a college in Imphal.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring teachers experienced in Drama Therapy and Counseling for a therapeutic center in Itanagar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for dedicated instructors proficient in Economics and Commerce for a school in Kohima.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking expert faculty members specialized in Political Science and Civics for a college in Panaji.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring experienced tutors proficient in Foreign Languages and Linguistics for a tutoring center in Raipur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for skilled mentors specialized in Media Studies and Communication for a school in Ranchi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking qualified educators proficient in Environmental Science and Geography for an educational institute in Shimla.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring teachers experienced in Visual Arts and Design for a school in Agartala.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for dedicated instructors proficient in Psychology and Sociology for a coaching institute in Bhopal.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking expert faculty members specialized in Music and Performing Arts for a college in Bhubaneswar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring experienced tutors proficient in Business Studies and Entrepreneurship for a tutoring center in Chandigarh.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for skilled mentors specialized in Computer Science and Technology for a school in Dehradun.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking dedicated instructors proficient in Drama and Film Studies for a school in Gangtok.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring experienced tutors specialized in Special Education and Inclusive Teaching for an educational institute in Imphal.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for skilled mentors specialized in Early Childhood Development for a preschool in Itanagar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking expert faculty members proficient in Home Science and Life Skills Education for a college in Kohima.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring teachers experienced in Agricultural Science and Farming Techniques for a school in Panaji.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for dedicated instructors proficient in Robotics and STEM Education for an educational institute in Raipur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking qualified educators specialized in Health Education and Nutrition for a school in Ranchi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring skilled mentors proficient in Creative Writing and Journalism for a college in Shimla.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for proficient teachers experienced in Drama Therapy and Counseling for a school in Agartala.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking seasoned educators specialized in Economics and Commerce for an educational institute in Bhopal.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring expert faculty members proficient in Political Science and Civics for a college in Bhubaneswar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for dedicated instructors experienced in Foreign Languages and Linguistics for a school in Chandigarh.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking qualified mentors proficient in Media Studies and Communication for an educational institute in Dehradun.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring experienced educators specialized in Environmental Science and Geography for a school in Gangtok.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for dedicated instructors proficient in Visual Arts and Design for an educational institute in Imphal.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking expert faculty members experienced in Psychology and Sociology for a college in Itanagar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring skilled mentors specialized in Music and Performing Arts for a school in Kohima.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for proficient teachers experienced in Business Studies and Entrepreneurship for an educational institute in Panaji.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking seasoned educators specialized in Computer Science and Technology for a school in Raipur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring expert faculty members proficient in Drama and Film Studies for a college in Ranchi.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for dedicated instructors specialized in Special Education and Inclusive Teaching for a school in Shimla.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking qualified mentors proficient in Early Childhood Development for an educational institute in Agartala.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring experienced educators specialized in Home Science and Life Skills Education for a college in Bhopal.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for dedicated instructors proficient in Agricultural Science and Farming Techniques for a school in Bhubaneswar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking expert faculty members experienced in Robotics and STEM Education for an educational institute in Chandigarh.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring skilled mentors specialized in Health Education and Nutrition for a school in Dehradun.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for proficient teachers experienced in Creative Writing and Journalism for a college in Gangtok.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking seasoned educators specialized in Drama Therapy and Counseling for an educational institute in Imphal.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Hiring expert faculty members proficient in Economics and Commerce for a school in Itanagar.",
+        "intent": "job_search"
+    }
+]

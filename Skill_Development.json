@@ -1,0 +1,322 @@
+[
+    {
+        "text": "I want to enhance my programming skills. Any recommended courses?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "Looking for online resources to improve my graphic designing skills. Any suggestions?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "I want to learn a new language. Any good platforms for language learning?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "Searching for courses to improve my leadership skills. Any recommendations?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "Interested in improving my public speaking skills. Any online courses available?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "I want to learn data analysis. Where should I start?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "Looking for resources to enhance my photography skills. Any suggestions?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "Interested in developing my writing skills. Any workshops or courses?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "I want to improve my financial management skills. Any good courses available?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "Searching for courses to develop my project management skills. Any recommendations?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "I want to improve my coding skills. Any platforms for coding practice?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "Looking for resources to enhance my video editing skills. Any suggestions?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "Interested in improving my negotiation skills. Any online courses available?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "I want to learn about digital marketing. Where should I start?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "Searching for courses to develop my time management skills. Any recommendations?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "I want to improve my presentation skills. Any good courses available?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "Interested in enhancing my problem-solving skills. Any online resources?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "I want to learn about artificial intelligence. Any recommended courses?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "Looking for resources to improve my copywriting skills. Any suggestions?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "Interested in improving my networking skills. Any online courses available?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "I want to learn about web development. Where should I start?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "Searching for courses to develop my critical thinking skills. Any recommendations?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "I want to improve my design skills. Any good courses available?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "Interested in enhancing my teamwork skills. Any online resources?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "Looking for resources to improve my SEO skills. Any suggestions?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "I want to learn about machine learning. Any recommended courses?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "Searching for courses to develop my creativity. Any recommendations?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "I want to improve my video production skills. Any good courses available?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "Interested in improving my problem-solving skills. Any online courses available?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "I want to learn about content marketing. Where should I start?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "Looking for resources to enhance my data visualization skills. Any suggestions?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "Interested in improving my coding skills. Any platforms for coding practice?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "I want to improve my public speaking skills. Any recommended courses?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "Searching for courses to develop my leadership skills. Any recommendations?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "I want to learn about digital marketing. Any good courses available?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "Interested in enhancing my writing skills. Any online resources?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "I want to improve my financial management skills. Any suggested courses?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "Looking for resources to enhance my coding skills. Any suggestions?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "Interested in improving my graphic designing skills. Any online courses available?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "I want to learn a new language. Any recommended platforms for language learning?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "Searching for courses to improve my project management skills. Any recommendations?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "I want to learn data analysis. Where should I start?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "Looking for resources to enhance my photography skills. Any suggestions?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "Interested in developing my negotiation skills. Any online courses available?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "I want to improve my presentation skills. Any recommended courses?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "Searching for courses to develop my problem-solving skills. Any recommendations?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "I want to learn about artificial intelligence. Any suggested courses?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "Looking for resources to improve my copywriting skills. Any suggestions?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "Interested in improving my networking skills. Any online courses available?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "I want to learn about web development. Where should I start?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "Searching for courses to develop my critical thinking skills. Any recommendations?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "I want to improve my design skills. Any good courses available?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "Interested in enhancing my teamwork skills. Any online resources?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "Looking for resources to improve my SEO skills. Any suggestions?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "I want to learn about machine learning. Any recommended courses?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "Searching for courses to develop my creativity. Any recommendations?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "I want to improve my video production skills. Any good courses available?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "Interested in improving my problem-solving skills. Any online courses available?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "I want to learn about content marketing. Where should I start?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "Looking for resources to enhance my data visualization skills. Any suggestions?",
+        "intent": "Skill_Development"
+    },
+        {
+            "text": "Can you suggest any courses to improve my culinary skills?",
+            "intent": "Skill_Development"
+        },
+        {
+            "text": "I'm interested in learning interior design. Any recommended online courses?",
+            "intent": "Skill_Development"
+        },
+        {
+            "text": "I want to enhance my carpentry skills. Any workshops or training available?",
+            "intent": "Skill_Development"
+        },
+        {
+            "text": "I'm looking to improve my customer service skills. Any courses focused on that?",
+            "intent": "Skill_Development"
+        },
+        {
+            "text": "Interested in learning about renewable energy. Where can I start?",
+            "intent": "Skill_Development"
+        },
+        {
+            "text": "Can you recommend any courses for improving my time management skills?",
+            "intent": "Skill_Development"
+        },
+        {
+            "text": "I want to delve into UI/UX design. Any suggested courses or resources?",
+            "intent": "Skill_Development"
+        },
+        {
+            "text": "Looking to polish my Excel skills. Any online tutorials you'd suggest?",
+            "intent": "Skill_Development"
+        },
+        {
+            "text": "Can you guide me to resources for enhancing my creative writing skills?",
+            "intent": "Skill_Development"
+        },
+        {
+            "text": "I'm interested in learning about cryptocurrency. Any good courses available?",
+            "intent": "Skill_Development"
+        },
+        {
+            "text": "I want to improve my data entry skills. Any platforms for practice?",
+            "intent": "Skill_Development"
+        },
+        {
+            "text": "Can you suggest any courses for developing my 3D modeling skills?",
+            "intent": "Skill_Development"
+        },
+        {
+            "text": "I'm looking to enhance my public relations skills. Any recommended courses?",
+            "intent": "Skill_Development"
+        },
+        {
+            "text": "Interested in learning about mindfulness. Any online resources?",
+            "intent": "Skill_Development"
+        },
+        {
+            "text": "I want to delve into ethical hacking. Where should I begin?",
+            "intent": "Skill_Development"
+        },
+        {
+            "text": "Looking for resources to enhance my event planning skills. Any suggestions?",
+            "intent": "Skill_Development"
+        },
+        {
+            "text": "I'm interested in learning about blockchain technology. Any courses you'd recommend?",
+            "intent": "Skill_Development"
+        },
+        {
+            "text": "Can you guide me to courses for developing my illustration skills?",
+            "intent": "Skill_Development"
+        },
+        {
+            "text": "I want to improve my project estimation skills. Any resources you'd suggest?",
+            "intent": "Skill_Development"
+        },
+        {
+            "text": "Looking to polish my SEO skills. Any recommended online tutorials?",
+            "intent": "Skill_Development"
+        }
+]

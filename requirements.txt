@@ -1,0 +1,4 @@
+pymongo==4.5.0
+openai==0.28.1
+streamlit==1.28.0
+python-dotenv==1.0.1

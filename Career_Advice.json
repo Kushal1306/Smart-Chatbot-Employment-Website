@@ -1,0 +1,582 @@
+[
+    {
+        "text": "As a tech enthusiast, should I pursue a career in cybersecurity or data science?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I'm torn between software engineering and artificial intelligence. Which path offers better long-term prospects?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career change to UX/UI design. What skills are crucial for success in this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "How can I transition from IT support to software development? Any advice on upskilling?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Exploring options in blockchain technology. What roles are in demand and how should I prepare?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I have a finance degree. What career trajectory can I expect in investment banking versus financial advising?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a shift from marketing to business analytics. What skill set would be essential?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Aspiring for a career in entrepreneurship. What steps should I take to prepare and gain relevant experience?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Seeking insights on career paths in supply chain management. Any advice for someone starting out?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "How can I leverage my economics background for a career in consulting or market research?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Interested in healthcare administration. What are the key skills needed for success in this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a switch to nursing from a different career. What challenges should I anticipate?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I'm a medical student exploring non-clinical career paths. Which administrative roles align with my background?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Seeking guidance on entering healthcare technology. What qualifications are preferred for these roles?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I'm passionate about public health. What career opportunities exist outside of traditional healthcare settings?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I have a degree in fine arts. What career options are available beyond traditional galleries?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career in content creation. Should I focus on freelancing or pursue a full-time role?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "How can I transition from graphic design to user experience design? Any recommended courses or certifications?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Seeking career advice for aspiring filmmakers. What steps can lead to success in the film industry?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I'm an aspiring writer. What paths should I explore to build a successful writing career?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career in teaching. Should I specialize in a subject or pursue general education?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Interested in educational technology. How can I combine teaching with tech innovations?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I'm a recent education graduate. What opportunities exist in educational administration?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Seeking advice on becoming an academic counselor. What qualifications are typically required?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "How can I transition from teaching to curriculum development? Any specific skills to focus on?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Interested in environmental science. What career paths can I explore in this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career in architecture. What skills should I prioritize to excel in this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I'm passionate about fashion. How can I turn my interest into a successful career?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Exploring opportunities in event planning and management. What are the key roles available?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I have a degree in psychology. What career options exist beyond clinical practice?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Interested in the field of artificial intelligence ethics. What career paths can I pursue?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career change to renewable energy. What roles are in demand in this sector?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Passionate about sports. What career opportunities exist beyond professional athletes?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I have a background in mathematics. What career options are available in data analysis?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career in law enforcement. What are the different paths I can take?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Interested in marine biology. What career options are available in this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I'm passionate about space exploration. What career paths exist in aerospace engineering?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career in public policy. What skills are crucial for success in this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Interested in culinary arts. What career opportunities are available for aspiring chefs?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I have a background in economics. What career options exist in finance beyond banking?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career in conservation biology. What roles are available in this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Passionate about graphic design. How can I pursue a career in digital marketing?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I'm interested in urban planning. What are the career prospects in this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career in social work. What are the various specializations available?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Interested in wildlife conservation. What career paths can I explore in this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I have a degree in chemistry. What career options exist in pharmaceutical research?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career in photography. How can I turn my hobby into a profession?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Interested in interior design. What career paths can I pursue in this industry?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I'm passionate about music. What career opportunities exist outside of performance?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career change to environmental engineering. What steps should I take?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Interested in education policy. What career opportunities are available in this area?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I have a background in communications. What career options exist in public relations?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career in international relations. What are the available job paths?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Interested in horticulture. What are the career prospects in this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I have a degree in anthropology. What career options exist beyond academia?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career in architecture preservation. What skills are crucial for success?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Interested in forensic science. What are the various career paths in this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I have a background in linguistics. What career options exist in language-related fields?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career in fashion merchandising. How can I pursue this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Interested in archaeology. What are the career prospects in this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I have a degree in sociology. What career options exist in this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career in physical therapy. What skills are essential for success?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Interested in astronomy. What career paths can I explore in this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I have a background in archaeology. What career options exist beyond research?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career in bioinformatics. What steps should I take to enter this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Interested in industrial design. What career opportunities can I pursue?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I have a degree in environmental studies. What career paths can I explore in sustainability?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career in museum curation. What skills are crucial in this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Interested in industrial engineering. What career paths can I pursue in this area?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I have a background in political science. What career options exist in public policy?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career in culinary arts. What are the different roles in the culinary industry?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Interested in wildlife photography. How can I turn this passion into a profession?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I have a degree in linguistics. What career options are available in language research?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career in sports management. What steps should I take to enter this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Interested in agricultural science. What career paths can I explore in this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I have a background in philosophy. What career options exist outside of academia?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career in fine arts. What opportunities are available for aspiring artists?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Interested in urban design. What career prospects exist in this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I have a degree in anthropology. What career paths can I explore outside of research?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career in music production. What skills are essential in this industry?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Interested in fashion design. What steps should I take to pursue this career?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I have a background in sociology. What career options are available in this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career in geology. What opportunities exist in this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Interested in architectural engineering. What career paths can I pursue in this area?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I have a degree in communication studies. What career options exist in media and journalism?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career in zoology. What roles can I explore in this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Interested in interior decoration. What are the career prospects in this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I have a background in history. What career options exist in heritage management?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career in nutrition. What steps should I take to pursue this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Interested in landscape architecture. What career paths are available in this area?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I have a degree in religious studies. What career options exist beyond academia?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career in theater arts. What opportunities are available in this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Interested in industrial ecology. What career paths can I explore in sustainability?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I have a background in linguistics. What career options are available in computational linguistics?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career in dance. What are the different roles in the dance industry?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Interested in art therapy. How can I pursue this field as a career?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I have a degree in cultural studies. What career paths are available in cultural preservation?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career in philosophy. What opportunities exist in this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Interested in oceanography. What career paths can I explore in marine science?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I have a background in theology. What career options exist in religious counseling?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career in sculpture. What steps should I take to pursue this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Interested in industrial design. What career prospects are available in this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I have an interest in environmental policy. What career paths can I explore in this area?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career in agricultural engineering. What opportunities exist in this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Interested in music composition. How can I pursue a career in this creative field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I have a background in linguistics. What career options are available in computational linguistics?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career in astronomy research. What steps should I take to enter this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Interested in art therapy. How can I pursue this field as a career?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I have a degree in cultural studies. What career paths are available in cultural preservation?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career in philosophy. What opportunities exist in this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Interested in oceanography. What career paths can I explore in marine science?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I have a background in theology. What career options exist in religious counseling?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career in sculpture. What steps should I take to pursue this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Interested in industrial design. What career prospects are available in this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I'm passionate about linguistics. What career options exist in language preservation?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career in theater production. What opportunities are available in this industry?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Interested in industrial ecology. What career paths can I explore in sustainability?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I have a degree in graphic design. What career options are available in advertising?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career in historical preservation. What steps should I take to enter this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Interested in agricultural science. What career paths can I explore in this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I have a background in philosophy. What career options exist in ethics consulting?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career in dance therapy. What opportunities are available in this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Interested in ecological research. How can I contribute to environmental conservation through my career?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I have a degree in journalism. What career paths can I explore in digital media?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career in theatrical design. What steps should I take to pursue this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Interested in wildlife biology. What career opportunities exist in this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I have a background in cultural anthropology. What career options exist in cultural heritage?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career in fine arts restoration. What opportunities are available in this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Interested in bioethics. What career paths can I explore in this area?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I have a degree in archaeology. What career options exist in cultural resource management?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career in botanical research. What steps should I take to enter this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Interested in media studies. What career paths can I explore in digital marketing?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I have a background in theater arts. What career options exist in performance coaching?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career in environmental law. What opportunities are available in this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Interested in heritage conservation. What career paths can I explore in this area?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I have a degree in theology. What career options exist in religious education?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career in landscape architecture. What steps should I take to pursue this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Interested in public administration. What career paths can I explore in government sectors?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I have a background in music production. What career options exist in sound engineering?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career in cultural anthropology. What opportunities are available in this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Interested in medieval studies. What career paths can I explore in historical research?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I have a degree in digital media. What career options exist in user experience design?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career in contemporary art curation. What steps should I take to pursue this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Interested in animal behavior studies. What career opportunities exist in this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I have a background in museum studies. What career options exist in cultural heritage?",
+        "intent": "Career_Advice"
+    }
+]

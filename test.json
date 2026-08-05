@@ -1,0 +1,167 @@
+[
+    {
+        "text": "Find me software job openings in Kanpur.",
+        "intent": "job_search"
+    },
+    {
+        "text": "I'm searching for software jobs in Thane.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Find me software job listings in Bhopal.",
+        "intent": "job_search"
+    },
+    {
+        "text": "I need software job listings in Kohima.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Help me find software job opportunities in Gangtok.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Find me software job openings in Itanagar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Can you assist me in finding software jobs in Panaji?",
+        "intent": "job_search"
+    },
+    {
+        "text": "Looking for software employment opportunities in Srinagar.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Can you suggest software developer job openings in Ahmedabad?",
+        "intent": "job_search"
+    },
+    {
+        "text": "I need information about software developer jobs in Surat.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Seeking software developer job opportunities in Surat.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Find me software developer job listings in Surat.",
+        "intent": "job_search"
+    },
+    {
+        "text": "Considering a switch to nursing from a different career. What challenges should I anticipate?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I'm passionate about public health. What career opportunities exist outside of traditional healthcare settings?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I have a degree in fine arts. What career options are available beyond traditional galleries?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career in content creation. Should I focus on freelancing or pursue a full-time role?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "How can I transition from graphic design to user experience design? Any recommended courses or certifications?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Seeking career advice for aspiring filmmakers. What steps can lead to success in the film industry?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I'm an aspiring writer. What paths should I explore to build a successful writing career?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Considering a career in teaching. Should I specialize in a subject or pursue general education?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Interested in educational technology. How can I combine teaching with tech innovations?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "I'm a recent education graduate. What opportunities exist in educational administration?",
+        "intent": "Career_Advice"
+    },
+    
+    {
+        "text": "I'm interested in urban planning. What are the career prospects in this field?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Hiring interns for software testing and quality assurance positions.",
+        "intent": "Internship_Search"
+    },
+    {
+        "text": "Looking for internships in the field of renewable energy or sustainable development.",
+        "intent": "Internship_Search"
+    },
+    {
+        "text": "Seeking interns interested in software engineering and backend development.",
+        "intent": "Internship_Search"
+    },
+    {
+        "text": "Hiring interns for full-stack development roles focusing on JavaScript frameworks.",
+        "intent": "Internship_Search"
+    },
+    {
+        "text": "Looking for internships in data science and machine learning for aspiring engineers.",
+        "intent": "Internship_Search"
+    },
+    {
+        "text": "Seeking interns for cybersecurity projects and ethical hacking.",
+        "intent": "Internship_Search"
+    },
+    {
+        "text": "I want to improve my presentation skills. Any good courses available?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "Interested in improving my networking skills. Any online courses available?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "I want to learn about web development. Where should I start?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "Searching for courses to develop my critical thinking skills. Any recommendations?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "I want to improve my design skills. Any good courses available?",
+        "intent": "Skill_Development"
+    },
+    {
+        "text": "Where can I retrieve details about mentorship initiatives in the finance sector?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Retrieve data on the impact of remote work on employee productivity.",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "How can I access information about job opportunities in the gig economy?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Retrieve comprehensive details about job satisfaction surveys in IT companies.",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Are there any networking events for technology professionals in Mumbai next month?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Looking for networking opportunities in the healthcare sector in Delhi. Any suggestions?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Are there any business networking conferences happening in Bangalore soon?",
+        "intent": "Networking_Opportunities"
+    }
+]

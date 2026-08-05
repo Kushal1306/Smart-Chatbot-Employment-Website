@@ -1,0 +1,478 @@
+[
+    {
+        "text": "Are there any networking events for technology professionals in Mumbai next month?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Looking for networking opportunities in the healthcare sector in Delhi. Any suggestions?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Are there any business networking conferences happening in Bangalore soon?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "I'm seeking networking opportunities in the finance industry in Hyderabad. Any insights?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Any networking events for entrepreneurs in Chennai this quarter?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Looking to network with HR professionals in Pune. Any upcoming meetups?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Are there any networking workshops for startups in Ahmedabad?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Seeking networking opportunities in the education sector in Kolkata. Any recommendations?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Are there any networking seminars for marketing professionals in Jaipur?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Looking for networking meetups related to arts and culture in Goa. Any suggestions?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "I'm interested in networking with engineering professionals in Chandigarh. Any events planned?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Are there any networking opportunities for freelancers in Coimbatore?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Seeking networking events for women entrepreneurs in Lucknow. Any information?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Looking for networking opportunities in the hospitality industry in Gurugram.",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Are there any networking events for tech startups in Kochi?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "I'm seeking networking opportunities in the fashion industry in Nagpur. Any suggestions?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Are there any business networking seminars happening in Visakhapatnam soon?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Looking for networking opportunities in the IT sector in Indore. Any insights?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Any networking events for startups in Bhopal?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Seeking networking opportunities in the media industry in Noida. Any recommendations?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Are there any networking events for software developers in Bangalore next month?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Looking for software engineering networking opportunities in Hyderabad. Any suggestions?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Any meetups for software professionals in Chennai soon?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "I'm seeking networking opportunities in the software industry in Pune. Any insights?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Are there any networking seminars for tech enthusiasts in Delhi?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Looking to network with software engineers in Mumbai. Any upcoming meetups?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Any software development networking workshops in Ahmedabad?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Seeking networking opportunities in software architecture in Kolkata. Any recommendations?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Are there any software engineering networking events for startups in Gurugram?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Looking for networking opportunities in software testing in Jaipur. Any suggestions?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "I'm interested in networking with software professionals in Chandigarh. Any events planned?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Are there any software development networking opportunities for freelancers in Coimbatore?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Seeking networking events for software enthusiasts in Lucknow. Any information?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Looking for networking opportunities in software consulting in Kochi.",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Are there any software engineering networking seminars happening in Visakhapatnam soon?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "I'm seeking networking opportunities in software project management in Indore. Any insights?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Any networking events for software startups in Bhopal?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Seeking networking opportunities in software development in Noida. Any recommendations?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Looking for networking opportunities in software design in Nagpur. Any suggestions?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Are there any software engineering networking meetups happening in Visakhapatnam soon?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Are there any job fairs for tech professionals in Bangalore next month?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Looking for IT job fairs in Hyderabad. Any upcoming events?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Any career expos for software developers in Chennai soon?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "I'm seeking job fair opportunities in Pune. Any insights?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Are there any technology career expos in Delhi?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Looking to attend job fairs for engineers in Mumbai. Any upcoming events?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Any technology job fairs in Ahmedabad?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Seeking career expos in the IT industry in Kolkata. Any recommendations?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Are there any job melas for tech startups in Gurugram?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Looking for job fairs in the software sector in Jaipur. Any suggestions?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "I'm interested in attending job fairs for software professionals in Chandigarh. Any events planned?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Are there any software job melas for freelancers in Coimbatore?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Seeking career expos for tech enthusiasts in Lucknow. Any information?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Looking for job fairs in the IT field in Kochi.",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Are there any technology job expos happening in Visakhapatnam soon?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "I'm seeking job fair opportunities in software project management in Indore. Any insights?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Any job melas for software startups in Bhopal?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Looking for job fairs in the software development field in Noida. Any recommendations?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Seeking career expos in software design in Nagpur. Any suggestions?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Are there any software job melas happening in Visakhapatnam soon?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Are there any job fairs for tech professionals in Bangalore next month?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Looking for IT job fairs in Hyderabad. Any upcoming events?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Any career expos for software developers in Chennai soon?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "I'm seeking job fair opportunities in Pune. Any insights?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Are there any technology career expos in Delhi?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Looking to attend job fairs for engineers in Mumbai. Any upcoming events?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Any technology job fairs in Ahmedabad?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Seeking career expos in the IT industry in Kolkata. Any recommendations?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Are there any job melas for tech startups in Gurugram?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Looking for job fairs in the software sector in Jaipur. Any suggestions?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "I'm interested in attending job fairs for software professionals in Chandigarh. Any events planned?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Are there any software job melas for freelancers in Coimbatore?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Seeking career expos for tech enthusiasts in Lucknow. Any information?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Looking for job fairs in the IT field in Kochi.",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Are there any technology job expos happening in Visakhapatnam soon?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "I'm seeking job fair opportunities in software project management in Indore. Any insights?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Any job melas for software startups in Bhopal?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Looking for job fairs in the software development field in Noida.",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Seeking career expos in software design in Nagpur. Any suggestions?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Are there any software job melas happening in Visakhapatnam soon?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Are there any job fairs for tech professionals in Bangalore next month?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Looking for IT job fairs in Hyderabad. Any upcoming events?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Any career expos for software developers in Chennai soon?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "I'm seeking job fair opportunities in Pune. Any insights?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Are there any technology career expos in Delhi?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Looking to attend job fairs for engineers in Mumbai. Any upcoming events?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Any technology job fairs in Ahmedabad?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Seeking career expos in the IT industry in Kolkata. Any recommendations?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Are there any job melas for tech startups in Gurugram?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Looking for job fairs in the software sector in Jaipur. Any suggestions?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "I'm interested in attending job fairs for software professionals in Chandigarh. Any events planned?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Are there any software job melas for freelancers in Coimbatore?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Seeking career expos for tech enthusiasts in Lucknow. Any information?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Looking for job fairs in the IT field in Kochi.",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Are there any technology job expos happening in Visakhapatnam soon?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "I'm seeking job fair opportunities in software project management in Indore. Any insights?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Any job melas for software startups in Bhopal?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Looking for job fairs in the software development field in Noida.",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Seeking career expos in software design in Nagpur. Any suggestions?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Are there any software job melas happening in Visakhapatnam soon?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Any upcoming job fairs for tech professionals in Bangalore?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Looking for IT job fairs in Hyderabad. Any recommendations?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Seeking job fair opportunities for software developers in Chennai.",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Are there any technology career expos in Delhi soon?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Looking to attend job fairs for engineers in Mumbai. Any upcoming events?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Any technology job fairs in Ahmedabad?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Seeking career expos in the IT industry in Kolkata. Any recommendations?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Are there any job melas for tech startups in Gurugram?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Looking for job fairs in the software sector in Jaipur. Any suggestions?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "I'm interested in attending job fairs for software professionals in Chandigarh. Any events planned?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Are there any software job melas for freelancers in Coimbatore?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Seeking career expos for tech enthusiasts in Lucknow. Any information?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Looking for job fairs in the IT field in Kochi.",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Are there any technology job expos happening in Visakhapatnam soon?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "I'm seeking job fair opportunities in software project management in Indore. Any insights?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Any job melas for software startups in Bhopal?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Looking for job fairs in the software development field in Noida.",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Seeking career expos in software design in Nagpur. Any suggestions?",
+        "intent": "Networking_Opportunities"
+    },
+    {
+        "text": "Are there any software job melas happening in Visakhapatnam soon?",
+        "intent": "Networking_Opportunities"
+    }
+]

@@ -1,0 +1,246 @@
+[
+    {
+        "text": "How can I retrieve information about data science courses?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Where can I retrieve information about resume writing tips?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "How to find details about remote job opportunities in IT?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Retrieve data on interview preparation techniques for finance jobs.",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "How can I access information about career growth in the healthcare sector?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Where can I find details about salary trends for software engineers?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Retrieve comprehensive data on job search strategies for recent graduates.",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "How to access information about networking events for job seekers?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Retrieve details about certifications valuable for project management roles.",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Where can I find information on skill development programs for sales jobs?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Retrieve data on the impact of AI on employment in the retail sector.",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "How can I access information about job opportunities in the renewable energy industry?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Retrieve details about emerging job roles in the cybersecurity field.",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Where can I find information on upskilling courses for digital marketing jobs?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Retrieve data on the latest trends in remote work policies.",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "How to access information about work-from-home setups and best practices?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Where can I retrieve details about job-hunting tips for experienced professionals?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Retrieve information on negotiation tactics for salary discussions.",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "How can I find data on job satisfaction statistics across different industries?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Retrieve comprehensive details about job retention strategies for employees.",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Where can I find information about mentorship programs for young professionals?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Retrieve data on the impact of automation on employment in manufacturing.",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "How can I access information about career advancement opportunities in tech startups?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Where can I find information about job shadowing programs for students?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Retrieve comprehensive information about job-sharing opportunities.",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "How can I access information about job market predictions in the next decade?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Retrieve details about emerging employment opportunities in AI-driven companies.",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Where can I find information about part-time job prospects for retirees?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Retrieve data on the importance of soft skills in today's job market.",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "How to access information on industry-specific job outlook reports?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Where can I retrieve details about mentorship initiatives in the finance sector?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Retrieve data on the impact of remote work on employee productivity.",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "How can I access information about job opportunities in the gig economy?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Retrieve comprehensive details about job satisfaction surveys in IT companies.",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Where can I find information about mentorship programs for fresh graduates?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Retrieve data on the impact of freelancing on traditional employment models.",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "How can I access information about job market trends for remote positions?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Where can I retrieve details about job-hopping trends among millennials?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Retrieve information about the impact of AI on recruitment processes.",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "How to access data on the rise of freelance marketplaces?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Where can I find information about the future of traditional office spaces?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Retrieve information on the impact of remote work on employee satisfaction.",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Where can I find data on the latest job market trends in the technology sector?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Retrieve details about the benefits of upskilling for career growth in finance.",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "How can I access information about job opportunities in the healthcare industry?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Retrieve data on the influence of AI on employment prospects in marketing.",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Where can I find information about leadership development programs for managers?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Retrieve comprehensive details about job search strategies for experienced professionals.",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "How to access information about remote internship opportunities for students?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Where can I retrieve data on the future of work-from-home policies post-pandemic?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Retrieve information on the impact of automation on employment in customer service.",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "How can I find details about job satisfaction surveys in the hospitality sector?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Where can I access information about the significance of soft skills in HR roles?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Retrieve data on the latest trends in online job applications and hiring processes.",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "How to find information on effective networking for career growth in sales?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Where can I retrieve details about certifications for career advancement in engineering?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Retrieve comprehensive data on the impact of remote work on work-life balance.",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "How can I access information about job market predictions for project management?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Where can I find details about job opportunities in the entertainment industry?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Retrieve data on the importance of continuous learning in the field of education.",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "How to access information about the impact of globalization on job markets?",
+        "intent": "Information_Retrieval"
+    }
+]

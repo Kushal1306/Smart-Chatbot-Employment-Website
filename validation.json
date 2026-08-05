@@ -1,0 +1,562 @@
+[
+    {
+        "text": "Find me software development jobs in Bangalore.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Looking for marketing positions in Mumbai.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Find job opportunities for teachers in Chennai.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Seeking sales executive roles in Delhi.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Can you help me find engineering jobs in Hyderabad?",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "How can I prepare for a career in data science?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Looking for advice on becoming a software engineer.",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Can you provide career guidance for marketing professionals?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Seeking advice on transitioning into a project management role.",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Where can I find advice on advancing in the finance industry?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Looking for software internship opportunities in Pune.",
+        "intent": "Internship_Search"
+    },
+    {
+        "text": "Find me internships in the field of digital marketing.",
+        "intent": "Internship_Search"
+    },
+    {
+        "text": "Seeking internships related to data analytics in Hyderabad.",
+        "intent": "Internship_Search"
+    },
+    {
+        "text": "Where can I find internships for graphic design?",
+        "intent": "Internship_Search"
+    },
+    {
+        "text": "Looking for internships in the healthcare sector.",
+        "intent": "Internship_Search"
+    },
+    {
+        "text": "Retrieve information on remote work trends post-pandemic.",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "How to find details about certifications for career advancement?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Retrieve data on the impact of AI on employment.",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Where can I find information on job market predictions?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Seeking data on the importance of soft skills in job interviews.",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Find me accounting jobs in Kolkata.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Looking for software development roles in Pune.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Seeking HR positions in Ahmedabad.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Where can I find marketing job opportunities in Jaipur?",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Find me teaching jobs in Lucknow.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "How can I enhance my career in the field of data analytics?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Looking for guidance on transitioning from sales to project management.",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Can you provide career advice for entry-level positions in finance?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Seeking advice on building a career in human resources.",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Where can I find tips for career growth in the healthcare industry?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Looking for summer internships in the field of computer science.",
+        "intent": "Internship_Search"
+    },
+    {
+        "text": "Seeking internships related to environmental science in Mumbai.",
+        "intent": "Internship_Search"
+    },
+    {
+        "text": "Can you help me find internships for content writing in Delhi?",
+        "intent": "Internship_Search"
+    },
+    {
+        "text": "Where can I find internships for civil engineering students in Chennai?",
+        "intent": "Internship_Search"
+    },
+    {
+        "text": "Find me internships in the field of graphic design in Bangalore.",
+        "intent": "Internship_Search"
+    },
+    {
+        "text": "Retrieve information on the latest trends in remote work policies.",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "How to access details about certifications for project management?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Where can I retrieve data on the impact of automation on job roles?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Seeking information on job market predictions post-COVID.",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Find me details about the significance of networking in career development.",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Looking for finance-related jobs in Mumbai.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Find me IT roles in Bengaluru.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Seeking marketing positions in Hyderabad.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Where can I find teaching job openings in Pune?",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Find me healthcare jobs in Chennai.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "How to transition from engineering to data science?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Seeking career advice for entry-level professionals.",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Can you guide me on career advancement in the hospitality industry?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Looking for tips on improving leadership skills.",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Where can I find advice for career switchers in the tech sector?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Seeking internships in data analysis in Bengaluru.",
+        "intent": "Internship_Search"
+    },
+    {
+        "text": "Find me marketing internships in Delhi.",
+        "intent": "Internship_Search"
+    },
+    {
+        "text": "How to get internships in graphic design in Mumbai?",
+        "intent": "Internship_Search"
+    },
+    {
+        "text": "Looking for software internships in Hyderabad.",
+        "intent": "Internship_Search"
+    },
+    {
+        "text": "Seeking internships in healthcare in Kolkata.",
+        "intent": "Internship_Search"
+    },
+    {
+        "text": "Retrieve information on job trends in the finance sector.",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "How to access details about certifications in project management?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Where can I find data on the impact of AI on sales jobs?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Looking for job market predictions in technology.",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Find details about networking importance in HR careers.",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Seeking finance jobs in Delhi.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Looking for software development roles in Chennai.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Find me HR positions in Bengaluru.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Where can I find marketing opportunities in Pune?",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Find me teaching vacancies in Hyderabad.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "How to transition from marketing to data science?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Seeking career advice for mid-career professionals.",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Can you provide guidance on career growth in retail?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Looking for tips on improving communication skills.",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Where can I find advice for career change into cybersecurity?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Seeking internships in data analysis in Mumbai.",
+        "intent": "Internship_Search"
+    },
+    {
+        "text": "Find me marketing internships in Chennai.",
+        "intent": "Internship_Search"
+    },
+    {
+        "text": "How to get internships in graphic design in Delhi?",
+        "intent": "Internship_Search"
+    },
+    {
+        "text": "Looking for software internships in Bengaluru.",
+        "intent": "Internship_Search"
+    },
+    {
+        "text": "Seeking internships in healthcare in Hyderabad.",
+        "intent": "Internship_Search"
+    },
+    {
+        "text": "Retrieve information on job trends in the hospitality sector.",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "How to access details about certifications in finance?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Where can I find data on the impact of AI on marketing roles?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Looking for job market predictions in engineering.",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Find details about networking importance in software development careers.",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Find me engineering jobs in Mumbai.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Looking for sales positions in Delhi.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Seeking teaching roles in Bengaluru.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Where can I find healthcare job opportunities in Chennai?",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Find me marketing vacancies in Pune.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "How can I advance my career in finance?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Seeking career advice for transitioning to data science.",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Can you provide guidance for mid-career professionals?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Looking for tips on improving managerial skills.",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Where can I find advice for career change into cybersecurity?",
+        "intent": "Career_Advice"
+    },
+    {
+        "text": "Seeking summer internships in computer science.",
+        "intent": "Internship_Search"
+    },
+    {
+        "text": "Find internships related to environmental science in Mumbai.",
+        "intent": "Internship_Search"
+    },
+    {
+        "text": "How to get internships for content writing in Delhi?",
+        "intent": "Internship_Search"
+    },
+    {
+        "text": "Looking for software internships in Hyderabad.",
+        "intent": "Internship_Search"
+    },
+    {
+        "text": "Seeking internships in healthcare in Kolkata.",
+        "intent": "Internship_Search"
+    },
+    {
+        "text": "Retrieve information on job trends in the finance sector.",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "How to access details about certifications in project management?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Where can I find data on the impact of AI on sales jobs?",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Looking for job market predictions in technology.",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Find details about networking importance in HR careers.",
+        "intent": "Information_Retrieval"
+    },
+    {
+        "text": "Find engineering jobs in Mumbai.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Looking for sales positions in Delhi.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Seeking teaching roles in Bengaluru.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Where can I find healthcare job opportunities in Chennai?",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Find marketing vacancies in Pune.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Find accounting jobs in Hyderabad.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Looking for software development roles in Kolkata.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Seeking HR positions in Ahmedabad.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Where can I find finance job openings in Jaipur?",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Find administrative vacancies in Chandigarh.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Looking for customer service positions in Gurugram.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Seeking data entry roles in Noida.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Where can I find legal job opportunities in Lucknow?",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Find management vacancies in Patna.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Looking for retail positions in Bhopal.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Seeking engineering jobs in Pune.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Find me sales positions in Bengaluru.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Looking for teaching roles in Chennai.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Where can I find healthcare job opportunities in Hyderabad?",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Find marketing vacancies in Mumbai.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Find accounting jobs in Gurugram.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Seeking software development roles in Noida.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Where can I find HR positions in Kolkata?",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Find finance job openings in Ahmedabad.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Looking for administrative vacancies in Jaipur.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Seeking customer service positions in Chandigarh.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Where can I find data entry roles in Lucknow?",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Find legal job opportunities in Bhopal.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Looking for retail positions in Patna.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Seeking management vacancies in Indore.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Find engineering jobs in Ahmedabad.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Looking for sales positions in Chandigarh.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Seeking teaching roles in Jaipur.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Where can I find healthcare job opportunities in Bhubaneswar?",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Find marketing vacancies in Visakhapatnam.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Find accounting jobs in Coimbatore.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Seeking software development roles in Kochi.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Where can I find HR positions in Guwahati?",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Find finance job openings in Dehradun.",
+        "intent": "Job_Search"
+    },
+    {
+        "text": "Looking for administrative vacancies in Ranchi.",
+        "intent": "Job_Search"
+    }
+]

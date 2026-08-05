@@ -1,25 +1,21 @@
-# !pip install openai pymongo streamlit
-
 import os
+from pathlib import Path
+
 import pymongo
 from pymongo import MongoClient
 import openai
 import streamlit as st
+from dotenv import load_dotenv
+
+load_dotenv(Path(__file__).resolve().parent / ".env")
 
 st.title("Punjab Govt's Employment Chatbot")
 
-# Set your OpenAI API key
-openai.api_key = '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'
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
-# MongoDB connection setup
-mongo_client = MongoClient("mongodb://localhost:27017/")  # Update the MongoDB connection string
-db = mongo_client["sih2023"]  # Replace with your MongoDB database name
-collection = db["jobslitings1"]  # Replace with your MongoDB collection name
-
-# Connect to your MongoDB server
-# client = pymongo.MongoClient("mongodb+srv://kushal:agXPt0UNyEmNaHU@cluster0.prccmls.mongodb.net/?retryWrites=true&w=majority")
-# db = client.sih2023
-# collection = db.joblistings
+mongo_client = MongoClient(os.getenv("MONGODB_URI"))
+db = mongo_client[os.getenv("MONGODB_DB", "sih2023")]
+collection = db[os.getenv("MONGODB_COLLECTION", "jobslitings")]
 
 def chatbot(input_text):
     response = openai.ChatCompletion.create(
@@ -33,10 +29,10 @@ def chatbot(input_text):
 
 def extract_intent_from_gpt3_response(user_input):
     # Use GPT-3.5 Turbo to recognize the intent
-    prompt = f"User Query: \"{user_input}\"\n strictly Recognize user query intent in two words. stricly just give intent in two words. categorize  the intent as anyone of job search, skill development counseling, or information retrieval.\""
+    prompt = f"User Query: \"{user_input}\"\n Categorize the intent of the query(strictly give only intent. no extra text.) as one of the following. job search,  skill development, counseling, or information retrieval."
 
     response = openai.Completion.create(
-        engine="text-davinci-002",  # Use a text-based engine for intent recognition
+        engine="gpt-3.5-turbo-instruct",  # Use a text-based engine for intent recognition
         prompt=prompt,
         max_tokens=32,  # Adjust the response length as needed
     )
@@ -45,6 +41,7 @@ def extract_intent_from_gpt3_response(user_input):
     recognized_intent = response.choices[0].text.strip()
 
     return recognized_intent
+
 
 # Define your intent classification and response generation functions as needed
 
@@ -96,7 +93,7 @@ def extract_entities(user_input):
     prompt = f"User Query: \"{user_input}\"\nRecognize entities in the user query, stricly identify the role and location only, and present them separated by a comma.\""
 
     response = openai.Completion.create(
-        engine="text-davinci-002",  # Use a text-based engine for intent recognition
+        engine="gpt-3.5-turbo-instruct",  # Use a text-based engine for intent recognition
         prompt=prompt,
         max_tokens=32,  # Adjust the response length as needed
     )
@@ -213,10 +210,12 @@ def respond_to_unrecognized_intent(user_input):
 #     print("Chatbot:", intent_response)
 
 user_input=st.text_input("Enter your query:")
+print(user_input)
 
 if st.button("Ask"):
     try:
          intent_response = classify_intent(user_input)
+         print(intent_response)
          for line in intent_response.split('\n'):
              st.write(line)
     except Exception as e:
@@ -225,4 +224,3 @@ if st.button("Ask"):
 
    
     #st.write("Chatbot:",intent_response)
-
